@@ -96,6 +96,9 @@
     <!-- Color for outgoing call icons. -->
     <color name="answered_outgoing_call">@color/dialer_green_highlight_color</color>
 
+    <!-- Color for blacklist call icons. -->
+    <color name="blacklisted_call">#ff000000</color>
+
     <!-- Color for icons in the actionbar -->
     <color name="actionbar_icon_color">#ffffff</color>
 
