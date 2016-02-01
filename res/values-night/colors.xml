@@ -107,4 +107,8 @@
     <color name="floating_action_button_touch_tint">#80ffffff</color>
 
     <color name="call_log_action_divider">#111111</color>
+
+    <!-- Block caller -->
+    <color name="call_log_action_block_gray">#ffffff</color>
+
 </resources>
